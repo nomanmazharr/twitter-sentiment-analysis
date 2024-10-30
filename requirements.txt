@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+pandas
+matplotlib
+fsspec
+huggingface_hub

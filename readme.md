@@ -1,4 +1,4 @@
-# Study Savvy (Study Smarter, Not Harder.)
+# Twitter Analysis from MASA
 
 <img src="logo.png" >
 
